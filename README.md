@@ -9,7 +9,7 @@ ve düşük seviye sistem programlamayla ilgileniyorum.
   kontrolcü entegrasyonu, STM32 tabanlı gömülü yazılım
 - 🖥️ [SNOS](https://github.com/SelamiKalay/SNOS) — sıfırdan yazılmış 32-bit x86
   bare-metal işletim sistemi (kernel, bellek yönetimi, sürücüler, grafik arayüz)
-- 🧩 [SSN Derleyici](https://github.com/SelamiKalay/ssn-derleyici) — Türkçe söz
+- 🧩 [SSN Derleyici](https://github.com/SelamiKalay/SSN-Derleyici) — Türkçe söz
   dizimli bir programlama dili; bytecode derleyicisi, sanal makinesi ve IDE'si
 
 ## Diğer Projeler
