@@ -5,8 +5,10 @@ systems and low-level systems programming.
 
 ## What I'm working on
 
-- Kastamonu University Teknofest Electric Vehicle Team — CAN bus, motor controller
-  integration, STM32-based embedded software
+- Kastamonu University Teknofest Electric Vehicle Team —
+  [vehicle control unit firmware](https://github.com/SelamiKalay/elektrikli-arac-aks)
+  on an STM32F407: 3 CAN buses (motor controller, BMS, charger), relay control and
+  Raspberry Pi telemetry
 - [SNOS](https://github.com/SelamiKalay/SNOS) — a 32-bit x86 bare-metal operating
   system written from scratch (kernel, memory management, drivers, GUI)
 - [SSN Compiler](https://github.com/SelamiKalay/SSN-Derleyici) — a programming
@@ -45,8 +47,10 @@ ve düşük seviye sistem programlamayla ilgileniyorum.
 
 ### Şu an üzerinde çalıştıklarım
 
-- Kastamonu Üniversitesi Teknofest Elektrikli Araç Takımı — CAN bus, motor
-  kontrolcü entegrasyonu, STM32 tabanlı gömülü yazılım
+- Kastamonu Üniversitesi Teknofest Elektrikli Araç Takımı —
+  [araç kontrol sistemi yazılımı](https://github.com/SelamiKalay/elektrikli-arac-aks)
+  (STM32F407): 3 CAN hattı (motor sürücü, BMS, şarj cihazı), röle kontrolü ve
+  Raspberry Pi telemetrisi
 - [SNOS](https://github.com/SelamiKalay/SNOS) — sıfırdan yazılmış 32-bit x86
   bare-metal işletim sistemi (kernel, bellek yönetimi, sürücüler, grafik arayüz)
 - [SSN Derleyici](https://github.com/SelamiKalay/SSN-Derleyici) — Türkçe söz
