@@ -17,6 +17,7 @@ ve düşük seviye sistem programlamayla ilgileniyorum.
 | Proje | Açıklama |
 |---|---|
 | [sahname](https://github.com/SelamiKalay/sahname) | Çevrimdışı satranç antrenörü; Stockfish, WebRTC ile sunucusuz iki kişilik oyun (Capacitor / Android) |
+| [qr-studio](https://github.com/SelamiKalay/qr-studio) | Özelleştirilebilir QR kod oluşturucu — web sitesi ve Android uygulaması, toplu üretim, SVG/PNG/PDF dışa aktarma |
 | [pe-unpacker](https://github.com/SelamiKalay/pe-unpacker) | Win32 Debug API ile paketlenmiş PE dosyalarını açan unpacker (C++) |
 | [shinrin-cs](https://github.com/SelamiKalay/shinrin-cs) | pygame ile geliştirilmiş, OOP mimarili 2D RPG oyunu (Python) |
 | [workflow-yonetim-sistemi](https://github.com/SelamiKalay/workflow-yonetim-sistemi) | Talep/onay, görev ve envanter yönetim sistemi (ASP.NET Core) |
