@@ -20,6 +20,7 @@ systems and low-level systems programming.
 
 | Project | Description |
 |---|---|
+| [KastaMario](https://github.com/SelamiKalay/BAKLAVA) | Mushroom poisoning risk guide for the forests of Kastamonu — on-device image model + Gemma 4 with safety rules. Team project, MLH Open Source AI hackathon |
 | [sahname](https://github.com/SelamiKalay/sahname) | Chess trainer that plays offline; Stockfish, serverless two-player games over WebRTC (Capacitor / Android) |
 | [qr-studio](https://github.com/SelamiKalay/qr-studio) | Customizable QR code generator — web app and Android app, batch generation, SVG/PNG/PDF export · [live demo](https://selamikalay.github.io/qr-studio/) |
 | [pe-unpacker](https://github.com/SelamiKalay/pe-unpacker) | Unpacker for packed PE files built on the Win32 Debug API (C++) |
