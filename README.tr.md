@@ -20,7 +20,7 @@ ve düşük seviye sistem programlamayla ilgileniyorum.
 
 | Proje | Açıklama |
 |---|---|
-| [KastaMario](https://github.com/SelamiKalay/BAKLAVA) | Kastamonu ormanları için mantar zehirlenme risk rehberi — cihazda çalışan görüntü modeli + Gemma 4 ve güvenlik kuralları. Ekip projesi, MLH Open Source AI hackathon'u |
+| [KastaMario](https://github.com/SelamiKalay/KastaMario) | Kastamonu ormanları için mantar zehirlenme risk rehberi — cihazda çalışan görüntü modeli + Gemma 4 ve güvenlik kuralları. Ekip projesi, MLH Open Source AI hackathon'u |
 | [sahname](https://github.com/SelamiKalay/sahname) | İnternetsiz oynanabilen satranç antrenörü; Stockfish, WebRTC ile sunucusuz iki kişilik oyun (Capacitor / Android) |
 | [qr-studio](https://github.com/SelamiKalay/qr-studio) | Özelleştirilebilir QR kod oluşturucu — web sitesi ve Android uygulaması, toplu üretim, SVG/PNG/PDF dışa aktarma · [canlı demo](https://selamikalay.github.io/qr-studio/) |
 | [pe-unpacker](https://github.com/SelamiKalay/pe-unpacker) | Win32 Debug API ile paketlenmiş PE dosyalarını açan unpacker (C++) |
